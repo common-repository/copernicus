@@ -1,0 +1,9 @@
+{
+    "require": {
+        "kriswallsmith/assetic": "dev-master",
+		"lmammino/jsmin4assetic": "dev-master",
+		"natxet/CssMin": "dev-master",
+		"smarty/smarty": "3.x",
+		"james-heinrich/phpthumb": "1.x"
+    }
+}
